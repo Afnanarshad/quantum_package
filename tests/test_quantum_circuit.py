@@ -1,6 +1,6 @@
 import sys
 import unittest
-from quantum_package.quantum_circuit import QuantumCircuit
+from quantum_package.quantum_library import QuantumCircuit
 from quantum_package.config import load_config
 
 class TestQuantumCircuit(unittest.TestCase):
